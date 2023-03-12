@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\Filters\\BlackAllFiltersDemo.csproj": {}
+    "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\BlackAllFiltersDemo\\BlackAllFiltersDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\Filters\\BlackAllFiltersDemo.csproj": {
+    "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\BlackAllFiltersDemo\\BlackAllFiltersDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\Filters\\BlackAllFiltersDemo.csproj",
+        "projectUniqueName": "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\BlackAllFiltersDemo\\BlackAllFiltersDemo.csproj",
         "projectName": "BlackAllFiltersDemo",
-        "projectPath": "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\Filters\\BlackAllFiltersDemo.csproj",
+        "projectPath": "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\BlackAllFiltersDemo\\BlackAllFiltersDemo.csproj",
         "packagesPath": "C:\\Users\\black-coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\Filters\\obj\\",
+        "outputPath": "C:\\Users\\black-coder\\Desktop\\1Should Modify first then upload\\1New GIT Upload List proj\\Filters\\BlackAllFiltersDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\black-coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
